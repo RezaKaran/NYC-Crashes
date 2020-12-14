@@ -14,13 +14,21 @@ There is a dataset of 100000 records of car crashes in New York that should be c
 I observed the dataset as much as possible. I got information of datatypes,number of columns,rows,unique values,duplicated values,null values,index and so on. You can run this call functions on the project to see the results. 
 
 | # Information().df_head(df)
+
 | # Information().analyse_df_describe(df)
+
 | # Information().analyse_df_columns(df)
+
 | # Information().analyse_df_info(df)
+
 | # Information().analyse_df_index(df)
+
 | # Information().analyse_df_null(df)
+
 | # Information().analyse_df_duplicated(df)
+
 | # Information().analyse_df_datatype(df)
+
 | # Information().analyse_df_uniquevalues(df)
 
 ## Second step: Clean the data
