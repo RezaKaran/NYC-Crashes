@@ -75,7 +75,8 @@ I have started this project on Wednesday afternoon and the deadline is two days
 
 To install this project, you need to have Python3 and Pandas package
  
-You will need a csv file named database.csv 
+Afterwards, you can download the clean database 'Clean_database_NYC.csv' that is ready to use.
+
 
   
  This project will clean errors, NaN value etc...So afterwards we will have a new dataset.
