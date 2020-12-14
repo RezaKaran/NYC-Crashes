@@ -43,9 +43,13 @@ In this step I have cleaned the dataset. You can apply these functions on the pr
 In this step we make the data frame ready for machine learning
 
 | # df=Preprocessing().feature_selection(df)
+
 | # df=Preprocessing().feature_slicing(df)
+
 | # df=Preprocessing().feature_engineering(df)
+
 | # df_normalized=Preprocessing().new_df_normalization(df)
+
 | # Preprocessing().resampling(df)
 
 ## Final step: Now it is time to save our new dataset in a csv file
